@@ -7,3 +7,18 @@ Voice Assistant
 speech_recognition
 pyttsx3
 nltk
+
+
+git-scm.com
+github.com
+
+
+#command
+git init  // Initialize Repository
+git config user.name "name"
+git config user.name "email"
+git remote add origin "gitrepolink.git"
+
+git add .
+git commit -m "any message"
+git push origin main
